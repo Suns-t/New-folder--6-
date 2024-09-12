@@ -2,10 +2,10 @@
 
     -| (Second) I Inserted A Commit for my index |-
 
-    -| (Third) I Modified My Index And Added Hi |-
+    -| (Third) I Inserted My Index And Added Hi |-
 
-    -| (Fourth) I Inserted A Index And Added Hello |-
+    -| (Fourth) I Modified My Index And Added Hello |-
 
-    -| (Fitfth) I Createf the|-
+    -| (Fitfth) I Created a README.MD And Then Commented And Finished The Project Then |-
 
-    -| (sixth) I  |-
+    -| (Sixth) I Pushed Inorder To Keep My Work Up To Date |-
